@@ -45,8 +45,8 @@
       <hotspot pan="-350.65" title="세대입구" description="" url="{node2}" skinid="ht_node" tilt="-31.18" target="" id="Point01"/>
       <hotspot pan="-272.51" title="현관창고" description="" url="{node18}" skinid="ht_node" tilt="-30.6" target="" id="Point02"/>
       <hotspot pan="-205.59" title="복도" description="" url="{node6}" skinid="ht_node" tilt="-29.19" target="" id="Point03"/>
-      <hotspot pan="-172.48" title="침실2" description="" url="{node16}" skinid="ht_node" tilt="-12.02" target="" id="Point04"/>
-      <hotspot pan="-150.87" title="욕실1" description="" url="{node17}" skinid="ht_node" tilt="-21.65" target="" id="Point05"/>
+      <hotspot pan="-172.48" title="침실1" description="" url="{node16}" skinid="ht_node" tilt="-12.02" target="" id="Point04"/>
+      <hotspot pan="-150.87" title="공용욕실" description="" url="{node17}" skinid="ht_node" tilt="-21.65" target="" id="Point05"/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomoutpause="1" delay="none" enabled="1" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="140" blendtime="1"/>
@@ -125,7 +125,7 @@
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
       <hotspot pan="-351" title="드레스룸" description="" url="{node10}" skinid="ht_node" tilt="-33.5" target="" id="Point02"/>
       <hotspot pan="-165.47" title="안방" description="" url="{node12}" skinid="ht_node" tilt="-32.03" target="" id="Point03"/>
-      <hotspot pan="-89.41" title="욕실2-1" description="" url="{node9}" skinid="ht_node" tilt="-44.94" target="" id="Point01"/>
+      <hotspot pan="-89.41" title="부부욕실2-1" description="" url="{node9}" skinid="ht_node" tilt="-44.94" target="" id="Point01"/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomoutpause="1" delay="none" enabled="1" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="140" blendtime="1"/>
@@ -171,12 +171,12 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fovstereographic="330" fovfisheye="360" fov="140" tilt="90" scaletofit="1"/>
     </view>
-    <userdata title="욕실2-1" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node9" latitude="36.146114" heading="0" customnodeid="" comment="" altitude="69.61" datetime="2024:10:20 20:14:14"/>
+    <userdata title="부부욕실2-1" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node9" latitude="36.146114" heading="0" customnodeid="" comment="넓게" altitude="69.61" datetime="2024:10:20 20:14:14"/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
       <hotspot pan="-173.48" title="파우더룸" description="" url="{node11}" skinid="ht_node" tilt="-35.27" target="" id="Point01"/>
-      <hotspot pan="-8.29" title="욕실2-2" description="" url="{node8}" skinid="ht_node" tilt="-49.66" target="" id="Point02"/>
+      <hotspot pan="-8.29" title="부부욕실2-2" description="" url="{node8}" skinid="ht_node" tilt="-49.66" target="" id="Point02"/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomoutpause="1" delay="none" enabled="1" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="140" blendtime="1"/>
@@ -197,11 +197,11 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fovstereographic="330" fovfisheye="360" fov="140" tilt="90" scaletofit="1"/>
     </view>
-    <userdata title="욕실2-2" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node8" latitude="36.146114" heading="0" customnodeid="" comment="" altitude="69.61" datetime="2024:10:20 20:14:08"/>
+    <userdata title="부부욕실2-2" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node8" latitude="36.146114" heading="0" customnodeid="" comment="넓게" altitude="69.61" datetime="2024:10:20 20:14:08"/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
-      <hotspot pan="-179.65" title="욕실2-1" description="" url="{node9}" skinid="ht_node" tilt="-43.48" target="" id="Point01"/>
+      <hotspot pan="-179.65" title="부부욕실2-1" description="" url="{node9}" skinid="ht_node" tilt="-43.48" target="" id="Point01"/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomoutpause="1" delay="none" enabled="1" zoomspeed="2" softedge="0" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="140" blendtime="1"/>
@@ -277,7 +277,7 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
-      <hotspot pan="-142.62" title="침실1" description="" url="{node15}" skinid="ht_node" tilt="-10.84" target="" id="Point01"/>
+      <hotspot pan="-142.62" title="침실2" description="" url="{node15}" skinid="ht_node" tilt="-10.84" target="" id="Point01"/>
       <hotspot pan="-197.76" title="거실" description="" url="{node7}" skinid="ht_node" tilt="-20.27" target="" id="Point02"/>
       <hotspot pan="-248.14" title="안방" description="" url="{node12}" skinid="ht_node" tilt="-11.87" target="" id="Point03"/>
       <hotspot pan="-358.46" title="주방" description="" url="{node5}" skinid="ht_node" tilt="-16.99" target="" id="Point04"/>
@@ -332,7 +332,7 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
-      <hotspot pan="-255.15" title="발코니2" description="" url="{node3}" skinid="ht_node" tilt="-13.7" target="" id="Point01"/>
+      <hotspot pan="-255.15" title="주방발코니" description="" url="{node3}" skinid="ht_node" tilt="-13.7" target="" id="Point01"/>
       <hotspot pan="-183.55" title="복도" description="" url="{node6}" skinid="ht_node" tilt="-12.96" target="" id="Point02"/>
       <hotspot pan="-85.06" title="팬트리" description="" url="{node4}" skinid="ht_node" tilt="-14.73" target="" id="Point03"/>
     </hotspots>
@@ -355,7 +355,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fovstereographic="330" fovfisheye="360" fov="140" tilt="90" scaletofit="1"/>
     </view>
-    <userdata title="발코니2" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node3" latitude="36.146114" heading="0" customnodeid="" comment="" altitude="69.61" datetime="2024:10:20 20:13:49"/>
+    <userdata title="주방발코니" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node3" latitude="36.146114" heading="0" customnodeid="" comment="넓게" altitude="69.61" datetime="2024:10:20 20:13:49"/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
@@ -405,7 +405,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fovstereographic="330" fovfisheye="360" fov="140" tilt="90" scaletofit="1"/>
     </view>
-    <userdata title="침실1" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node15" latitude="36.146114" heading="0" customnodeid="" comment="" altitude="69.61" datetime="2024:10:20 20:14:37"/>
+    <userdata title="침실2" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node15" latitude="36.146114" heading="0" customnodeid="" comment="" altitude="69.61" datetime="2024:10:20 20:14:37"/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
@@ -430,7 +430,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fovstereographic="330" fovfisheye="360" fov="140" tilt="90" scaletofit="1"/>
     </view>
-    <userdata title="침실2" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node16" latitude="36.146114" heading="0" customnodeid="" comment="" altitude="69.61" datetime="2024:10:20 20:14:40"/>
+    <userdata title="침실1" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node16" latitude="36.146114" heading="0" customnodeid="" comment="" altitude="69.61" datetime="2024:10:20 20:14:40"/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
@@ -455,7 +455,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fovstereographic="330" fovfisheye="360" fov="140" tilt="90" scaletofit="1"/>
     </view>
-    <userdata title="욕실1" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node17" latitude="36.146114" heading="0" customnodeid="" comment="" altitude="69.61" datetime="2024:10:20 20:14:43"/>
+    <userdata title="공용욕실" copyright="" info="" longitude="128.402903" tags="104동 2302호 VR촬영" source="" description="" author="" nodeid="node17" latitude="36.146114" heading="0" customnodeid="" comment="" altitude="69.61" datetime="2024:10:20 20:14:43"/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label border="1" enabled="1" bordercolor="0x000000" textalpha="1" borderalpha="1" borderradius="1" width="180" height="20" backgroundcolor="0xffffff" backgroundalpha="1" background="1" wordwrap="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
